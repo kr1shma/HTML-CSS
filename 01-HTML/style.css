@@ -1,5 +1,5 @@
 
-* {
+*{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
@@ -66,7 +66,6 @@ body{
     background-color: cornflowerblue;
 }
 
-
 .container {
     min-height: 180px;
     width: 95%;
@@ -91,7 +90,6 @@ body{
     background-color: #414fc5;
     transform: translateY(-5px);
 }
-
 
 #login_form {
     background-color: #c892d3;
@@ -179,7 +177,6 @@ body{
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
 
-
 footer {
     height: 50px;
     width: 100%;
@@ -189,7 +186,6 @@ footer {
     padding: 15px;
 }
 
-@media (max-width: 600px) {
     #nav_bar {
         height: auto;
         flex-wrap: wrap;
@@ -218,4 +214,4 @@ footer {
         width: 90%;
         margin: 10% auto;
     }
-}
+
